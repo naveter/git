@@ -1,0 +1,26 @@
+Index: first/second.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- first/second.txt	(revision 5cfdce4530d6fca836a5bb82e83dead7232f29df)
++++ first/second.txt	(revision c930f01159fce72e45e7d947015813f9ed3702f7)
+@@ -1,1 +1,2 @@
+ before rebase
++some string
+\ No newline at end of file
+Index: file.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- file.txt	(revision c930f01159fce72e45e7d947015813f9ed3702f7)
++++ file.txt	(revision 69d5b97da76c82839e22f3a35e673a6532ece95e)
+@@ -1,3 +1,4 @@
+ first string
+ second string
+-third
+\ No newline at end of file
++third
++fourth
+\ No newline at end of file
