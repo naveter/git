@@ -4,3 +4,4 @@ resolve conflictes after Merge remote tracking
 rebase branch 1
 rebase branch 2
 rebase branch 3
+rebase branch 4
