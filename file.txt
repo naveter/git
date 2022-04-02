@@ -1,4 +1,4 @@
-first string
-second string
-third
-fourth
+rebase local 1
+rebase local 2
+rebase local 3
+rebase local 4
