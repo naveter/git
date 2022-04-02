@@ -1,4 +1,1 @@
-first string
-second string
-third
-fourth
+rebase local 1
